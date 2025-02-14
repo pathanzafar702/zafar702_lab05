@@ -1,13 +1,10 @@
 {
   "name": "@zafar702/reactjs-tabbedpane-component",
-  "version": "1.0.21",
+  "version": "1.0.20", 
   "description": "A tabbed pane component using React.js",
   "author": "pathanzafar702",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pathanzafar702/zafar702_lab05.git"
-  },
+  "repository": "pathanzafar702/zafar702_lab05",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -59,4 +56,3 @@
     "sass": "^1.63.2",
     "yarn": "^1.22.19"
   }
-}
